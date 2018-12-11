@@ -1,11 +1,11 @@
 {
-  "name": "react-native-swiper",
+  "name": "react-native-swiper-fixed",
   "keywords": [
     "react-component",
     "react-native",
     "ios"
   ],
-  "version": "1.5.14",
+  "version": "1.5.15",
   "description": "Swiper component for React Native.",
   "main": "index.js",
   "scripts": {
@@ -60,5 +60,8 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10"
+  },
+  "directories": {
+    "example": "examples"
   }
 }
